@@ -9,6 +9,12 @@
 
 A Qt6 / QML application template, with a full set of visual controls, helper modules, as well as build and deploy scripts and CI setups.
 
+{
+This is a great assistance to anyone using Qt, and i am going to try to use it for working with windowed apps .. specifically with OpenSCAD.
+
+Jeff Hayes
+}
+
 #### Prerequisites
 
 You will need a C++17 compiler and Qt 6.8+.  
@@ -17,9 +23,7 @@ For macOS and iOS builds, you'll need Xcode (15+) installed.
 For Windows builds, you'll need MSVC 2022 installed.  
 For Android builds, you'll need the appropriates JDK (17) SDK (28+) and NDK (28+). You can customize Android build environment using the `assets/android/gradle.properties` file.  
 
-> https://doc.qt.io/qt-6.8/supported-platforms.html
-
-#### Supported platforms
+#### [Supported Platforms](https://doc.qt.io/qt-6.8/supported-platforms.html)
 
 - Linux (Ubuntu 22.04+)
 - macOS 12+
