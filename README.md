@@ -9,10 +9,9 @@
 
 A Qt6 / QML application template, with a full set of visual controls, helper modules, as well as build and deploy scripts and CI setups.
 
-{
-This is a great assistance to anyone using Qt, and i am going to try to use it for working with windowed apps .. specifically with OpenSCAD.
-
-Jeff Hayes
+{</br>
+This is a great assistance to anyone using Qt, and i am going to try to use it for working with windowed apps .. specifically with OpenSCAD.</br>
+Jeff Hayes</br>
 }
 
 #### Prerequisites
